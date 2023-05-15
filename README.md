@@ -70,6 +70,9 @@ $ npm start (to start the backend)
 - Story searching  and pagination 
 - CRUD operations (Story create, read, update and delete)
 - Upload user ımages and story ımages  to the server
+- Take Pictures with Webcam-react and store them 
+- Send by Email the Pictures
+- Convert the Pictures png into pdf
 - Liking  stories and adding stories  to the Reading list
 - Commenting  on the story
 - Skeleton loading effect
@@ -90,6 +93,7 @@ This project was created using the following technologies.
 - [Css](https://developer.mozilla.org/en-US/docs/Web/CSS) - For User Interface
 - [CK-Editor](https://ckeditor.com/docs/ckeditor5/latest/builds/guides/integration/frameworks/react.html) - Rich Text Editor 
 - [uuid](https://www.npmjs.com/package/uuid) - For random id generator
+- [react-webcam] (https://www.npmjs.com/package/react-webcam) - Webcam component
 - [React icons](https://react-icons.github.io/react-icons/) -
  Small library that helps you add icons  to your react apps.
 
@@ -136,12 +140,6 @@ This project was created using the following technologies.
 ![10](https://user-images.githubusercontent.com/111676859/226197329-025091a0-642b-4d68-ac4e-f365e0e78e82.png)
 --- - 
 ![11](https://user-images.githubusercontent.com/111676859/226197338-3e530bc6-e7bf-4e4a-9284-165f85be47d2.png)
-
-## Author
-- Portfolio: [berthutapea](https://berthutapea.vercel.app/)
-- Github: [@bert-hutapea](https://github.com/berthutapea)
-- Linkedin: [@gilbert-hutapea](https://www.linkedin.com/in/gilberthutapea/)
-- Email: [berthutapea@gmail.com](mailto:berthutapea@gmail.com)
 
 ## License
 
